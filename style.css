@@ -1,0 +1,55 @@
+body{
+    background-image: url(https://img.freepik.com/free-vector/abstract-geometric-wireframe-background_52683-59421.jpg?w=2000);
+}
+
+h1
+{
+    text-align: center;
+    -webkit-text-fill-color: blueviolet;
+    text-decoration: overline;
+  
+}
+
+h2{text-align: center;}
+
+.main
+{
+ text-align: center;
+ }
+
+ input[id="submit"]:hover
+ {
+    opacity: 0.8;
+ }
+
+ input[id="submit"]:active
+ {
+    opacity: 0.5;
+ }
+
+input[id="submit"]
+{
+    background-color: darkcyan;
+    color: white;
+    border: black;
+    height: 30px;
+    width: 60 px;
+    cursor: pointer;
+    border-radius: 2px;
+    text-align: center;
+    transition: opacity 0.10s;
+}
+
+label[id="p1"]
+{
+ text-decoration-line: underline;
+ text-shadow: 0.45px 0.45px black;
+}
+
+label[id="u1"]
+{
+    text-decoration: underline;
+    text-shadow: 0.45px 0.45px black;
+}
+
+
