@@ -1,0 +1,60 @@
+body
+{
+  background-color: black;
+}
+
+div[id="divh"]
+{
+    
+    color: white;
+    font-size: 20px;
+    font-family: 'Manrope', sans-serif;
+    border-bottom: 10px solid #ee6461;
+    border-width: 2px;
+    width: 1400px;
+    margin-right: 50px;
+    margin-left: 35px;
+    display: inline-block;
+}
+
+div[id="image1"]
+{
+  size-adjust: 60%;
+  display:inline-block;
+  width: 10px;
+}
+
+div[id="main1"]
+{
+ margin-top: 30px;
+ margin-bottom: 30px;
+}
+
+p[id="para1"]
+{
+  font-size: 20px;
+  color: white;
+  margin-left: 35px;
+  font-family: 'Manrope';
+  margin-right: 1000px;
+  display: inline-block;
+}
+
+p[id="lasttext"]
+{
+ color: white;
+ font-family: 'Manrope';
+ font-size: 40px;
+ margin-right: 1100px;
+ margin-left: 50px;
+}
+
+p[id="wow"]
+{
+  margin-left: 750px;
+  position: absolute;
+  top: 200px;
+  left: 30px;
+  right: 100px;
+  border: 1px solid #000000;
+}
